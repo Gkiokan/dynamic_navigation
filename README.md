@@ -1,12 +1,10 @@
-
-
-
 <h1>dynamic Navigation</h1>
 ==================
-A little dynamic navigation effect, when page is scrolled, navigation should appear at the top - fixed.
 
+This is a quick example, how to create a dynamic Navigation with jQuery
+The Navigation appears on the Top in fixed position, after the Website has been scrolled.
 
-<p>This is a quick example, how to create a dynamic Navigation with jQuery</p>
-<br>
-<p>It appears after the Document is scrolled with a slideDown effect.</p>
-<br>
+For now nothing special on this, but it will be a core idea of how to get it work.
+
+greetZ
+Gkiokan
